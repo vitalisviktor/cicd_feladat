@@ -1,2 +1,2 @@
-Vitális Viktor
+Vitális Viktor,
 Kárász Zsombor
